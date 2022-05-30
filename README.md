@@ -1,3 +1,3 @@
-# webAPI-challenge Hello, 
+# webAPI-challenge 
 
-My name is Cole.
+Hello, My name is Cole.

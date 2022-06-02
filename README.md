@@ -1,4 +1,3 @@
 # webAPI-challenge 
 
-Hello, My name is Cole.
-hsjdfg
+create a quiz using updated html and css powered by JavaScript
